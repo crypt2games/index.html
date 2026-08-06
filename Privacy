@@ -1,228 +1,80 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Iron Ridge - Privacy Policy</title>
+# Privacy Policy
 
-    <style>
-        *{
-            margin:0;
-            padding:0;
-            box-sizing:border-box;
-        }
+**Effective Date:** August 6, 2026
 
-        body{
-            font-family: Arial, Helvetica, sans-serif;
-            background:#f4f6f8;
-            color:#333;
-            line-height:1.7;
-        }
+## Privacy Policy for Iron Ridge
 
-        .container{
-            max-width:900px;
-            margin:40px auto;
-            background:#fff;
-            padding:40px;
-            border-radius:10px;
-            box-shadow:0 8px 24px rgba(0,0,0,.08);
-        }
+Thank you for playing **Iron Ridge**. Your privacy is important to us. This Privacy Policy explains what information may be collected when you use Iron Ridge and how that information is used.
 
-        h1{
-            color:#1f2937;
-            margin-bottom:10px;
-        }
+### 1. Information We Collect
 
-        h2{
-            color:#374151;
-            margin-top:30px;
-            margin-bottom:10px;
-            border-bottom:1px solid #e5e7eb;
-            padding-bottom:6px;
-        }
+Depending on the features you use, Iron Ridge may collect the following information:
 
-        p{
-            margin-bottom:16px;
-        }
+* Basic device information (such as device model, operating system, and app version)
+* Gameplay data, including game progress, achievements, and settings
+* Crash reports and diagnostic information to improve stability
+* Google Play Games account information, if you choose to sign in using Google Play Games Services
 
-        ul{
-            margin-left:25px;
-            margin-bottom:18px;
-        }
-
-        li{
-            margin-bottom:8px;
-        }
-
-        .date{
-            color:#6b7280;
-            margin-bottom:25px;
-        }
-
-        footer{
-            margin-top:40px;
-            text-align:center;
-            color:#6b7280;
-            font-size:.9rem;
-            border-top:1px solid #e5e7eb;
-            padding-top:20px;
-        }
-
-        a{
-            color:#2563eb;
-            text-decoration:none;
-        }
-
-        a:hover{
-            text-decoration:underline;
-        }
-
-        @media(max-width:768px){
-            .container{
-                margin:15px;
-                padding:25px;
-            }
-        }
-    </style>
-</head>
-
-<body>
-
-<div class="container">
-
-<h1>Privacy Policy</h1>
-
-<p class="date">
-Effective Date: August 6, 2026
-</p>
-
-<p>
-Thank you for playing <strong>Iron Ridge</strong>.
-Your privacy is important to us. This Privacy Policy explains what
-information may be collected when you use Iron Ridge and how it is used.
-</p>
-
-<h2>1. Information We Collect</h2>
-
-<p>Depending on the features you use, Iron Ridge may collect:</p>
-
-<ul>
-<li>Device information (device model, operating system, app version)</li>
-<li>Gameplay progress and saved game data</li>
-<li>Achievements and leaderboard information</li>
-<li>Crash reports and diagnostic information</li>
-<li>Google Play Games account information if you choose to sign in</li>
-</ul>
-
-<p>
 Iron Ridge does not intentionally collect sensitive personal information.
-</p>
 
-<h2>2. How We Use Information</h2>
+### 2. How We Use Information
 
-<ul>
-<li>Save your game progress</li>
-<li>Provide achievements and leaderboards</li>
-<li>Improve game performance</li>
-<li>Fix bugs and crashes</li>
-<li>Protect against fraud and abuse</li>
-</ul>
+Information collected may be used to:
 
-<h2>3. Google Play Games Services</h2>
+* Save and restore game progress
+* Provide achievements and leaderboards
+* Improve gameplay and performance
+* Fix bugs and technical issues
+* Prevent fraud and abuse
 
-<p>
-If you sign in using Google Play Games Services, Google may collect
-information according to its own Privacy Policy.
-</p>
+### 3. Google Play Games Services
 
-<h2>4. Third-Party Services</h2>
+If you sign in using Google Play Games Services, Google may collect and process information according to its own Privacy Policy. Please review Google's Privacy Policy for additional information.
 
-<p>
-Iron Ridge may use the following third-party services:
-</p>
+### 4. Third-Party Services
 
-<ul>
-<li>Google Play Games Services</li>
-<li>Google Play Services</li>
-<li>Google Play Store</li>
-</ul>
+Iron Ridge may use third-party services that collect information in accordance with their own privacy policies. These services may include:
 
-<p>
-If additional services such as analytics or advertising are added in future
-updates, this Privacy Policy will be updated accordingly.
-</p>
+* Google Play Games Services
+* Google Play Store
+* Google Play Services
 
-<h2>5. Data Sharing</h2>
+If advertising or analytics services are added in future updates, this Privacy Policy will be updated accordingly.
 
-<p>
+### 5. Data Sharing
+
 We do not sell your personal information.
-</p>
 
-<p>Your information may be shared only:</p>
+Information may be shared only:
 
-<ul>
-<li>When required by law</li>
-<li>To protect our legal rights</li>
-<li>With trusted service providers necessary to operate the game</li>
-</ul>
+* When required by law
+* To protect our legal rights
+* With service providers necessary to operate the game
 
-<h2>6. Data Security</h2>
+### 6. Data Security
 
-<p>
-We take reasonable measures to protect your information. However,
-no method of electronic storage or transmission over the Internet
-is completely secure.
-</p>
+We take reasonable measures to protect information from unauthorized access, alteration, disclosure, or destruction. However, no method of electronic storage or transmission is completely secure.
 
-<h2>7. Children's Privacy</h2>
+### 7. Children's Privacy
 
-<p>
-Iron Ridge is not intended to knowingly collect personal information
-from children. If you believe a child has provided personal information,
-please contact us so we can take appropriate action.
-</p>
+Iron Ridge is not intended to knowingly collect personal information from children. If you believe a child has provided personal information, please contact us so appropriate action can be taken.
 
-<h2>8. Your Rights</h2>
+### 8. Your Rights
 
-<p>
-Depending on your country or region, you may have the right to request
-access to, correction of, or deletion of your personal information.
-</p>
+Depending on your location, you may have rights regarding your personal information, including the right to request access, correction, or deletion of applicable data.
 
-<h2>9. Changes to This Policy</h2>
+### 9. Changes to This Privacy Policy
 
-<p>
-We may update this Privacy Policy from time to time. Any changes
-will appear on this page with a revised effective date.
-</p>
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
 
-<h2>10. Contact Us</h2>
+### 10. Contact Us
 
-<p>
-If you have questions about this Privacy Policy, please contact:
-</p>
+If you have any questions about this Privacy Policy, please contact:
 
-<p>
-<strong>Developer:</strong> Crypt2 Games
-</p>
+**Developer:** Iron Ridge Development
 
-<p>
-<strong>Email:</strong>
-<a href="mailto:acbgb77@gmail.com">acbgb77@gmail.com</a>
-</p>
+**Email:** [Insert Contact Email]
 
-<h2>Consent</h2>
+## Consent
 
-<p>
-By downloading or using Iron Ridge, you acknowledge that you have
-read and understood this Privacy Policy.
-</p>
-
-<footer>
-© 2026 Iron Ridge Development. All rights reserved.
-</footer>
-
-</div>
-
-</body>
-</html>
+By downloading or using Iron Ridge, you acknowledge that you have read and understood this Privacy Policy.
