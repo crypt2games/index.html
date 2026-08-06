@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iron Ridge - Privacy Policy</title>
+
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+        }
+
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            background:#f4f6f8;
+            color:#333;
+            line-height:1.7;
+        }
+
+        .container{
+            max-width:900px;
+            margin:40px auto;
+            background:#fff;
+            padding:40px;
+            border-radius:10px;
+            box-shadow:0 8px 24px rgba(0,0,0,.08);
+        }
+
+        h1{
+            color:#1f2937;
+            margin-bottom:10px;
+        }
+
+        h2{
+            color:#374151;
+            margin-top:30px;
+            margin-bottom:10px;
+            border-bottom:1px solid #e5e7eb;
+            padding-bottom:6px;
+        }
+
+        p{
+            margin-bottom:16px;
+        }
+
+        ul{
+            margin-left:25px;
+            margin-bottom:18px;
+        }
+
+        li{
+            margin-bottom:8px;
+        }
+
+        .date{
+            color:#6b7280;
+            margin-bottom:25px;
+        }
+
+        footer{
+            margin-top:40px;
+            text-align:center;
+            color:#6b7280;
+            font-size:.9rem;
+            border-top:1px solid #e5e7eb;
+            padding-top:20px;
+        }
+
+        a{
+            color:#2563eb;
+            text-decoration:none;
+        }
+
+        a:hover{
+            text-decoration:underline;
+        }
+
+        @media(max-width:768px){
+            .container{
+                margin:15px;
+                padding:25px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Privacy Policy</h1>
+
+<p class="date">
+Effective Date: August 6, 2026
+</p>
+
+<p>
+Thank you for playing <strong>Iron Ridge</strong>.
+Your privacy is important to us. This Privacy Policy explains what
+information may be collected when you use Iron Ridge and how it is used.
+</p>
+
+<h2>1. Information We Collect</h2>
+
+<p>Depending on the features you use, Iron Ridge may collect:</p>
+
+<ul>
+<li>Device information (device model, operating system, app version)</li>
+<li>Gameplay progress and saved game data</li>
+<li>Achievements and leaderboard information</li>
+<li>Crash reports and diagnostic information</li>
+<li>Google Play Games account information if you choose to sign in</li>
+</ul>
+
+<p>
+Iron Ridge does not intentionally collect sensitive personal information.
+</p>
+
+<h2>2. How We Use Information</h2>
+
+<ul>
+<li>Save your game progress</li>
+<li>Provide achievements and leaderboards</li>
+<li>Improve game performance</li>
+<li>Fix bugs and crashes</li>
+<li>Protect against fraud and abuse</li>
+</ul>
+
+<h2>3. Google Play Games Services</h2>
+
+<p>
+If you sign in using Google Play Games Services, Google may collect
+information according to its own Privacy Policy.
+</p>
+
+<h2>4. Third-Party Services</h2>
+
+<p>
+Iron Ridge may use the following third-party services:
+</p>
+
+<ul>
+<li>Google Play Games Services</li>
+<li>Google Play Services</li>
+<li>Google Play Store</li>
+</ul>
+
+<p>
+If additional services such as analytics or advertising are added in future
+updates, this Privacy Policy will be updated accordingly.
+</p>
+
+<h2>5. Data Sharing</h2>
+
+<p>
+We do not sell your personal information.
+</p>
+
+<p>Your information may be shared only:</p>
+
+<ul>
+<li>When required by law</li>
+<li>To protect our legal rights</li>
+<li>With trusted service providers necessary to operate the game</li>
+</ul>
+
+<h2>6. Data Security</h2>
+
+<p>
+We take reasonable measures to protect your information. However,
+no method of electronic storage or transmission over the Internet
+is completely secure.
+</p>
+
+<h2>7. Children's Privacy</h2>
+
+<p>
+Iron Ridge is not intended to knowingly collect personal information
+from children. If you believe a child has provided personal information,
+please contact us so we can take appropriate action.
+</p>
+
+<h2>8. Your Rights</h2>
+
+<p>
+Depending on your country or region, you may have the right to request
+access to, correction of, or deletion of your personal information.
+</p>
+
+<h2>9. Changes to This Policy</h2>
+
+<p>
+We may update this Privacy Policy from time to time. Any changes
+will appear on this page with a revised effective date.
+</p>
+
+<h2>10. Contact Us</h2>
+
+<p>
+If you have questions about this Privacy Policy, please contact:
+</p>
+
+<p>
+<strong>Developer:</strong> Crypt2 Games
+</p>
+
+<p>
+<strong>Email:</strong>
+<a href="mailto:acbgb77@gmail.com">acbgb77@gmail.com</a>
+</p>
+
+<h2>Consent</h2>
+
+<p>
+By downloading or using Iron Ridge, you acknowledge that you have
+read and understood this Privacy Policy.
+</p>
+
+<footer>
+© 2026 Iron Ridge Development. All rights reserved.
+</footer>
+
+</div>
+
+</body>
+</html>
