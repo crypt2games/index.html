@@ -1,80 +1,100 @@
-# Privacy Policy
+# Privacy Policy for Iron Ridge
 
-**Effective Date:** August 6, 2026
+**Effective Date: September 9, 2026**
+**Last Updated: September 9, 2026**
 
-## Privacy Policy for Iron Ridge
+This Privacy Policy explains how information is handled when you use **Iron Ridge** (“the Game”).
 
-Thank you for playing **Iron Ridge**. Your privacy is important to us. This Privacy Policy explains what information may be collected when you use Iron Ridge and how that information is used.
+## 1. Information We Collect
 
-### 1. Information We Collect
+Iron Ridge does not require you to create an account or provide personal information such as your name, email address, phone number, or physical address in order to play.
 
-Depending on the features you use, Iron Ridge may collect the following information:
+However, the Android version of Iron Ridge uses third-party advertising services that may automatically collect certain information as described below.
 
-* Basic device information (such as device model, operating system, and app version)
-* Gameplay data, including game progress, achievements, and settings
-* Crash reports and diagnostic information to improve stability
-* Google Play Games account information, if you choose to sign in using Google Play Games Services
+## 2. Advertising
 
-Iron Ridge does not intentionally collect sensitive personal information.
+The Android version of Iron Ridge uses **Google AdMob**, provided by Google, to display advertisements.
 
-### 2. How We Use Information
+Advertisements may include:
 
-Information collected may be used to:
+* Rewarded advertisements that players may choose to watch in exchange for an in-game benefit, such as reviving after death.
+* Interstitial advertisements that may appear at natural transition points, such as after the end of a Survive-mode run.
 
-* Save and restore game progress
-* Provide achievements and leaderboards
-* Improve gameplay and performance
-* Fix bugs and technical issues
-* Prevent fraud and abuse
+The Windows version of Iron Ridge does not currently use Google AdMob advertising.
 
-### 3. Google Play Games Services
+## 3. Information Collected by Google AdMob
 
-If you sign in using Google Play Games Services, Google may collect and process information according to its own Privacy Policy. Please review Google's Privacy Policy for additional information.
+When advertisements are enabled, the Google Mobile Ads SDK may automatically collect and process information including:
 
-### 4. Third-Party Services
+* IP address, which may be used to estimate general location.
+* Device and account identifiers, including the Android Advertising ID and App Set ID where available.
+* Information about interactions with the Game and advertisements, such as app launches, taps, and video views.
+* Diagnostic and performance information, such as app launch time, crashes, hangs, and other technical information.
 
-Iron Ridge may use third-party services that collect information in accordance with their own privacy policies. These services may include:
+This information may be used for purposes including advertising, analytics, ad measurement, security, and fraud prevention.
 
-* Google Play Games Services
-* Google Play Store
-* Google Play Services
+Information transmitted by the Google Mobile Ads SDK is encrypted in transit.
 
-If advertising or analytics services are added in future updates, this Privacy Policy will be updated accordingly.
+## 4. Advertising ID
 
-### 5. Data Sharing
+On supported Android devices, Google AdMob may use the Android Advertising ID for advertising and related purposes.
 
-We do not sell your personal information.
+The Android Advertising ID is resettable and deletable by the user. Android users can manage their advertising preferences and Advertising ID through their device's privacy and advertising settings.
 
-Information may be shared only:
+Deleting or resetting the Advertising ID may affect how advertising services identify the device for advertising purposes.
 
-* When required by law
-* To protect our legal rights
-* With service providers necessary to operate the game
+## 5. Personalized and Non-Personalized Advertising
 
-### 6. Data Security
+Depending on your location, device settings, consent choices, and applicable laws, advertisements may be personalized or non-personalized.
 
-We take reasonable measures to protect information from unauthorized access, alteration, disclosure, or destruction. However, no method of electronic storage or transmission is completely secure.
+Where required by applicable privacy laws, users may be presented with options regarding how their information is used for advertising.
 
-### 7. Children's Privacy
+## 6. Third-Party Services
 
-Iron Ridge is not intended to knowingly collect personal information from children. If you believe a child has provided personal information, please contact us so appropriate action can be taken.
+Iron Ridge uses Google AdMob for advertising on Android.
 
-### 8. Your Rights
+Google's collection, processing, and use of information is governed by Google's own privacy policies and terms.
 
-Depending on your location, you may have rights regarding your personal information, including the right to request access, correction, or deletion of applicable data.
+For more information, please review Google's privacy policy and information about how Google uses information from apps and services that use Google technologies.
 
-### 9. Changes to This Privacy Policy
+## 7. Children's Privacy
 
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
+Iron Ridge is not intended to knowingly collect personal information directly from children.
 
-### 10. Contact Us
+If Iron Ridge is made available to children or designated as directed toward children through an app marketplace, additional advertising and privacy requirements may apply. Advertising services will be configured as required by applicable laws and platform policies.
 
-If you have any questions about this Privacy Policy, please contact:
+## 8. Data Security
 
-**Developer:** Crypt2Games
+Iron Ridge does not operate its own system for collecting personal account information from players.
 
-**Email:** acbgb77@gmail.com
+Third-party services used by the Game, including Google AdMob, maintain their own technical and organizational measures for protecting information they process.
 
-## Consent
+The Google Mobile Ads SDK encrypts information transmitted from the device using TLS.
 
-By downloading or using Iron Ridge, you acknowledge that you have read and understood this Privacy Policy.
+## 9. Data Retention
+
+Iron Ridge does not maintain its own database of personal information collected through Google AdMob.
+
+Information collected by Google through its advertising services is retained and processed according to Google's applicable policies and retention practices.
+
+## 10. Your Privacy Choices
+
+Depending on your device and location, you may have options to:
+
+* Reset or delete your Android Advertising ID.
+* Change advertising privacy settings on your Android device.
+* Control certain personalized advertising settings through Google.
+* Make consent or privacy choices when presented with an applicable consent message.
+
+Additional rights may be available under privacy laws applicable in your jurisdiction.
+
+## 11. Changes to This Privacy Policy
+
+This Privacy Policy may be updated when Iron Ridge changes its features, advertising providers, data practices, or legal requirements.
+
+Any updated policy will display a revised “Last Updated” date.
+
+## 12. Contact
+
+If you have questions or concerns regarding this Privacy Policy or Iron Ridge's privacy practices, please contact the developer using the contact information provided on the Iron Ridge Google Play Store listing.
+
